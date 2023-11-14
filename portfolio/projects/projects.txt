@@ -1,0 +1,61 @@
+Recipie Manager - MERN
+// Navbar
+	- Accesibility
+	- Home
+	- Explore
+	- Trending
+
+	- Register
+	- Login
+// Home Page
+// Dashboard
+	- User image
+	- User name
+	- My Recipes
+		- Add new
+		- Update
+		- Delete
+	- Favorites
+	- Categories
+	- Tracking (folowing users)
+		- Notification when new recipe added
+	- Tracked (being followed)
+	
+// Login - Register
+	
+// Create new recipe:
+	- Recipe id
+	- Image
+	- Author
+		- User name
+		- Date created
+		- Link to users page
+	- Cook time
+	- Ingredients/alt ingredients
+	- Proccess
+	- Details
+		- Cal
+		- Protein
+		- Fat
+		- Fiber
+		- Sugar
+		- Vit & Min
+// Search db
+	- Users
+	- Recipies
+// Filter Bar under nav:
+	- Diet type
+	- Total time
+	- Calories total/per serving
+	- Minus alergie ingredients
+	- Must use
+	- Must not use
+Task Manager - 
+Student Management System -
+E-commerce - 
+Bookstoor - 
+Social Media Platform - 
+Job Board - 
+Fitness Tracker - 
+Event Planner - 
+Online Education Platform - LAMP

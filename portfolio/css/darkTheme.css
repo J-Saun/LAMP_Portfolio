@@ -1,0 +1,14 @@
+:root {
+  --primary: black;
+  --secondary: rgb(126, 125, 125);
+}
+.navbar {
+  background-color: var(--primary);
+}
+.navbar a {
+  color: white;
+}
+.example {
+  background-color: black;
+  color: white;
+}

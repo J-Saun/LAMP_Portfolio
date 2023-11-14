@@ -1,0 +1,46 @@
+/* Google Fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Noto+Sans+Gothic&family=Play:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Noto+Sans+Gothic&family=Play:wght@400;700&family=Revalia&display=swap");
+
+* {
+  box-sizing: border-box;
+  /* font-family: "Montserrat", sans-serif;
+  font-family: "Noto Sans Gothic", sans-serif;
+  font-family: "Play", sans-serif; 
+  font-family: "Montserrat", sans-serif;
+  font-family: "Noto Sans Gothic", sans-serif;
+  font-family: "Play", sans-serif;
+  font-family: "Revalia", sans-serif;
+  */
+  font-family: "Montserrat", sans-serif;
+  font-family: "Noto Sans Gothic", sans-serif;
+  font-family: "Play", sans-serif;
+  font-family: "Revalia", sans-serif;
+}
+:root {
+  /* Theme Colors */
+  --primary: rgba(255, 68, 0, 1);
+  --secondary: rgba(0, 128, 0, 1);
+
+  /* Brand Colors  */
+  --html: rgba(228, 77, 38, 1);
+  --css: rgba(38, 76, 227, 1);
+  --php: rgba(72, 76, 137, 1);
+}
+
+/* Brand Classes */
+/* Icons */
+.html {
+  color: var(--html);
+}
+.css {
+  color: var(--css);
+}
+.php {
+  color: var(--php);
+}
+/* Navbar  */
+.navbar {
+  /* font-family: "Noto Sans Gothic", sans-serif; */
+  /* font-family: "Revalia", sans-serif; */
+}
